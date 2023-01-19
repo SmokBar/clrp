@@ -1,3 +1,0 @@
-• Configured armour that you don’t bleed out must get shot with a hard round when getting shot
-• Configured you can pull a npas not a default maverick helicopter off the top of pd
-• Configured armoury so certain ranks get limited stuff like guns, heavy armour etc
